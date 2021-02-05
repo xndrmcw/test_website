@@ -14,7 +14,7 @@ organizations:
   url: https://www.bentley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor of Mathematical Sciences at Bentley University.
+bio: Assistant Professor of Mathematical Sciences
 # Interests to show in About widget
 interests:
 - Filler
@@ -24,15 +24,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.S. in Applied and Computational Mathematics
-    institution: University of Southern California
-    year: 2014
+  - course: Ph.D. in Statistics
+    institution: Harvard University
+      year: 2019
   - course: A.M. in Statistics
     institution: Harvard University
     year: 2015
-  - course: Ph.D. in Statistics
-    institution: Harvard University
-    year: 2019
+  - course: B.S. in Applied and Computational Mathematics
+    institution: University of Southern California
+    year: 2014
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
