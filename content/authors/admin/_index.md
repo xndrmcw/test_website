@@ -26,7 +26,7 @@ education:
   courses:
   - course: Ph.D. in Statistics
     institution: Harvard University
-      year: 2019
+    year: 2019
   - course: A.M. in Statistics
     institution: Harvard University
     year: 2015
